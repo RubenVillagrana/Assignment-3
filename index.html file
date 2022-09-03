@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruben Villagrana Sr.</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body> 
+    <h1>Ruben Villagrana Sr.</h1>
+    <p class="tribute"></p>
+    <p>Las Huicholas is a rural part of Mexico, only known to the indigenous people who were born and raised and for the most part never leave</p>   
+    <p>This was not the case with my father who at 13 years of age left the indiginous mountain range he called home and set to bring his mother and siblings to Guadalajara Jalisco five years later.</p>
+    <p>He became a tradesman in masonry and saved up enough money to move his mother and five siblings to the city of Guadalajara where they had running water and electricity.</p>
+    <p>Never satisfied, and with bigger dreams in mind, he made his way to Delano California where three of his siblings would follow him and make a life for themselves and become US citizens.</p>
+    <p>He ended up in Avenal California where he worked as a farm labourer and cement finisher for fourty five years</p>
+    <p>Mr. Ruben Villagrana Sr. never complained about his circumstances in life and always instilled in me to work hard and be a better man than him.</p>
+    <p id="cr"> &copy; 2022 Ruben Villagrana</p>
+</body>
+</html>
