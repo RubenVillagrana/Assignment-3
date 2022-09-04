@@ -3,12 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="tribute webpage" content="width=device-width, initial-scale=1.0">
     <title>Ruben Villagrana Sr.</title>
     <link rel="stylesheet" href="main.css">
 </head>
 <body> 
-    <h1>Ruben Villagrana Sr.</h1>
+    <h1>Tribute\Biography Webpage</h1>
+    
     <p class="tribute"></p>
     <p>Las Huicholas is a rural part of Mexico, only known to the indigenous people who were born and raised and for the most part never leave</p>   
     <p>This was not the case with my father who at 13 years of age left the indiginous mountain range he called home and set to bring his mother and siblings to Guadalajara Jalisco five years later.</p>
